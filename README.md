@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到 满坦坦 的GitHub
 
-You can use the [editor on GitHub](https://github.com/mantantan/mantantan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+您可以在我的 [GitHub](https://github.com/mantantan) 查看到我感兴趣的项目哦。<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+点击这里查看我的[CSDN](http://blog.csdn.net/mantantan)。
 
 ### Markdown
 
