@@ -29,5 +29,13 @@ $( document ).ready(function() {
                     $('#index_left').addClass('animated slideInLeft');
                     $('#index_right').addClass('animated slideInRight');
                     });
+					
+				$(function () { 
+					$("[data-toggle='popover']").popover();
+				});
+				$("#senMsg").click(function(){
+					$("#backhome").click();
+				});
+		
            
 		});
